@@ -2704,6 +2704,253 @@ const activitiesData = {
             { name: "Home Walk Talk", description: "Show animal homes via classroom visuals and ask children to describe them aloud.", materials: "Visual aids" }
           ]
         } 
+      },
+      { 
+        volume: 3, 
+        topics: { 
+          "Opposites": [
+            { name: "Opposite Song Dance", description: "Play an opposites song through a Bluetooth speaker. Children perform opposite actions like sit/stand, up/down. Reinforces auditory learning and physical engagement.", materials: "Bluetooth speaker" },
+            { name: "Flip Card Opposites", description: "Children flip one card with a word or image and say the opposite. They can play in pairs to encourage peer interaction.", materials: "Word/image flashcards" },
+            { name: "Opposite Ball Toss", description: "A teacher says a word while tossing a ball to a student. The student catches it and says the opposite.", materials: "Soft plastic ball" },
+            { name: "Opposite Circle Time", description: "During circle time, the teacher says a word and children take turns giving the opposite word.", materials: "None" },
+            { name: "Sorting Trays", description: "Students sort items into two trays labeled with opposite categories like big/small or hard/soft.", materials: "Trays, assorted small objects" },
+            { name: "Opposite Walk", description: "Teacher gives movement cues like 'walk fast' or 'walk slow' and children follow. Great for kinesthetic learners.", materials: "Open classroom space" },
+            { name: "Draw the Opposite", description: "Teacher says a word (e.g., happy), and students draw its opposite (e.g., sad). Builds comprehension through art.", materials: "Paper, crayons" },
+            { name: "Opposite Pairs Hunt", description: "Opposite word pairs are hidden around the room. Students find and match them.", materials: "Opposite word cards" },
+            { name: "Yarn Matching Line", description: "Use string on a wall or board where kids clip matching opposites with clothespins.", materials: "String, clothespins, opposite cards" },
+            { name: "Act Out the Opposite", description: "Teacher says a word like 'sleep,' and children act out its opposite ('wake up').", materials: "None" },
+            { name: "Opposite Story Time", description: "Read a story with many opposites, pausing to ask students for the opposite word.", materials: "Storybook with opposites" },
+            { name: "Clay Opposites", description: "Children use clay to mold shapes representing opposites (e.g., tall/short towers).", materials: "Clay" },
+            { name: "Opposite Puzzle Assembly", description: "Use paper puzzles with pictures or words. Children connect opposites together.", materials: "Handmade paper puzzle sets" },
+            { name: "Clap for the Opposite", description: "Teacher says a word. If students know the opposite, they clap and say it.", materials: "None" },
+            { name: "Matching Opposites on Cloth", description: "Draw opposite images on cloth patches. Kids match them by tying the patches with string.", materials: "Cloth scraps, thread" },
+            { name: "Button Sorting Opposites", description: "Sort buttons by opposite attributes like big/small, smooth/rough.", materials: "Assorted buttons" },
+            { name: "Newspaper Opposites Collage", description: "Children cut or tear images from newspapers to represent opposite words and paste them on opposite sides of a chart.", materials: "Newspaper, glue, chart paper" },
+            { name: "Spoon Toss for Opposites", description: "Call out a word while tossing a spoon gently to a child who must say the opposite.", materials: "Plastic spoon" },
+            { name: "Emotion Opposites Game", description: "Show a happy face and ask for the opposite. Children mimic both expressions.", materials: "Emotion flashcards" },
+            { name: "Picture Opposite Match", description: "Children are given cards with opposite images (e.g., sun and snowflake). They must match the pairs and say both words aloud to build vocabulary.", materials: "Picture cards of opposite pairs" }
+          ],
+          "Blends": [
+            { name: "Blend Sound Hopscotch", description: "Draw boxes with blends like 'bl', 'cl', 'fl', 'gr' using chalk outside or on paper indoors. Children hop on each blend as they say the sound and a word (e.g., 'bl – blue').", materials: "Chalk or masking tape, paper (if indoors)" },
+            { name: "Blend Sorting Basket", description: "Prepare word/picture cards of blend words. Children sort them into baskets labeled with blends (e.g., 'tr', 'cr', 'sl').", materials: "Baskets or bowls, paper blend cards" },
+            { name: "Build-a-Blend Clay Words", description: "Children use clay to shape blend letters and simple words like 'flag', 'clap', 'grab'. Helps reinforce spelling through tactile play.", materials: "Clay or homemade dough" },
+            { name: "Blend Train Craft", description: "Each train wagon has a blend (e.g., 'gl', 'st'), and children stick words or pictures that match onto the wagons.", materials: "Old paper, glue, scissors (teacher handles), crayons" },
+            { name: "Spin-a-Blend Wheel", description: "Create a spinner with different blends. Children spin and name a word starting with the blend.", materials: "Cardboard/paper plate, spinner arrow, marker" },
+            { name: "Blend Bingo", description: "Make a bingo board with blend words. As the teacher calls out a blend word, kids cover it if it's on their board.", materials: "Handmade boards, small buttons as markers" },
+            { name: "Clap the Blend", description: "Say a word and ask kids to clap the number of sounds, then identify the blend (e.g., 'cl-ap' → blend is 'cl').", materials: "Word list" },
+            { name: "Stick and Match Blends", description: "Write blends on one side of a folded A4 sheet and draw or paste images on the other side. Children match them with string or paper strips.", materials: "A4 sheet, crayons, pictures, string" },
+            { name: "Blends Hop & Match", description: "Place blend word cards and picture cards around the room. Kids hop to the matching pair when a blend is called.", materials: "Blend word cards, pictures" },
+            { name: "Blends Sound Bag", description: "Put small objects (e.g., spoon, glue, block) in a bag. Children pull one out, say its name, and identify the blend.", materials: "Cloth bag, small objects with blend sounds" },
+            { name: "Blend Match Puzzle", description: "Create homemade puzzles with blend beginnings and ending parts (e.g., 'bl' + 'ock'). Children join them.", materials: "Cardstock paper or cut-up charts" },
+            { name: "Blendy Song Time", description: "Sing songs emphasizing blends (e.g., 'Bl-bl-blue is the sky…'). Children join in the blend sounds with actions.", materials: "Bluetooth speaker (optional), lyrics" },
+            { name: "Chalk Blends Path", description: "Draw a walking path with blends written in each step. As kids walk, they say each blend and a matching word.", materials: "Chalk" },
+            { name: "Scoop & Say", description: "Fill a bowl with blend word cards. Children pick using a spoon and say the blend and a word with it.", materials: "Cards, spoon, bowl" },
+            { name: "Color by Blend", description: "Give children a blend worksheet (e.g., 'color all 'gr' blend words blue, 'cl' green').", materials: "Crayons, printed or handmade sheets" },
+            { name: "String a Blend Word", description: "Children string together paper beads with one letter or blend on each, forming blend words like 'flag' or 'clap.'", materials: "Paper circles with holes, thread" },
+            { name: "Act Out a Blend Word", description: "Teacher calls a blend word like 'clap' or 'grin' and kids act it out. Helps with comprehension.", materials: "Word list" },
+            { name: "Ball Toss Blend Match", description: "Children toss a soft ball onto picture cards. They say the blend that matches the picture.", materials: "Soft ball, blend pictures" },
+            { name: "Paint the Blend", description: "Children use finger painting to write blend letters and blend words.", materials: "Paint, paper, aprons (optional)" },
+            { name: "Blend Word Relay", description: "In teams, children run to a table, pick a word card, and say the blend. Builds speed and phonics recall.", materials: "Word cards, space to move" }
+          ],
+          "CVC Words (Consonant-Vowel-Consonant)": [
+            { name: "CVC Word Hop", description: "Write CVC words on sheets or newspaper squares. Spread them out. Children hop from one to the next, reading the word aloud.", materials: "Newspaper or paper squares with CVC words" },
+            { name: "Sound It Out Sticks", description: "Write individual sounds (c–a–t) on 3 sticks. Kids arrange sticks to form CVC words and read them.", materials: "Ice cream sticks, markers" },
+            { name: "CVC Bead Spelling", description: "Give children beads with letters. They string together CVC words (like 'dog').", materials: "Letter beads or paper-beads, thread" },
+            { name: "Word Family Match-Up", description: "Provide word family cards (e.g., –at, –et). Kids match beginning sounds (like 'c', 'b') to form CVC words.", materials: "Word family cards, letter cards" },
+            { name: "Clay CVC Builder", description: "Children use clay to roll and shape letters to build CVC words.", materials: "Clay" },
+            { name: "CVC Cloth Clip Cards", description: "Write CVC words and pictures on cards. Children clip the correct picture to the matching word using clothespins.", materials: "Cards, clothespins" },
+            { name: "Picture-to-Word Match", description: "Place pictures (like a pot, pen, cat) on the table. Children match written CVC words to the pictures.", materials: "Picture cards, word cards" },
+            { name: "CVC Spin & Say", description: "Make a spinner with vowel sounds. Children spin, pick consonants from a pile, and try making a real CVC word.", materials: "Paper spinner, letter cards" },
+            { name: "Spoon CVC Builder", description: "Write consonants on spoons and vowels on cups. Children insert spoons into the cup to form real CVC words.", materials: "Plastic spoons, paper cups" },
+            { name: "CVC Sound Steps", description: "Label floor spots with 'C', 'V', 'C'. Child steps on each and says the corresponding letter to form a word (e.g., C: 'b', V: 'a', C: 't').", materials: "Floor markers or paper letters" },
+            { name: "CVC Fishing Game", description: "Attach paper clips to CVC word cards and use a stick with a magnet to 'fish.' Children read the caught word.", materials: "Word cards, magnet stick, paper clips" },
+            { name: "Read & Toss", description: "Toss a soft ball to a child. The teacher says a CVC word, and the child must repeat and toss back.", materials: "Soft ball" },
+            { name: "CVC Bingo", description: "Use simple bingo sheets with CVC words. Teacher says a word; kids cover it if they have it.", materials: "Bingo boards with CVC words, buttons or beads to cover" },
+            { name: "CVC Word Songs", description: "Sing simple tunes like 'C-A-T says cat!' to familiar melodies. Children clap to each letter.", materials: "Bluetooth speaker (optional), song lyrics" },
+            { name: "CVC Coloring Code", description: "Give a sheet with mixed CVC words and a color code (e.g., color all '-at' words red).", materials: "Printed sheet, crayons" },
+            { name: "Make a Word Train", description: "Children arrange word cards in train formation by changing the initial or final sound (e.g., cat → cap → can).", materials: "Word cards with train engine print" },
+            { name: "Sound Boxes Drawing", description: "Draw 3 boxes. Children write or draw one letter sound per box to make a CVC word.", materials: "Paper, pencils or crayons" },
+            { name: "CVC Puppet Talk", description: "Create puppets. Children use them to 'talk' only in CVC words like 'I see a dog. I got a pen.'", materials: "Paper bag puppets" },
+            { name: "CVC Basket Sort", description: "Label baskets with 'a', 'e', 'i', 'o', 'u'. Children sort CVC word cards by vowel sound.", materials: "Small baskets, word cards" },
+            { name: "CVC Maze Walk", description: "Draw a path on the ground with CVC words. Children follow a correct sequence to reach the end (e.g., bed → bad → bat).", materials: "Chalk or large word cards" }
+          ],
+          "Digraphs": [
+            { name: "Digraph Sound Hunt", description: "Hide objects or picture cards around the room (e.g., chair, shell, thumb). Children hunt and identify the digraph sound in each word.", materials: "Picture cards or small objects with digraph sounds" },
+            { name: "Digraph Clap & Say", description: "Teacher says a word (e.g., 'shark'), and children clap once for each sound and then call out the digraph ('sh').", materials: "Word list" },
+            { name: "Digraph Paint Dab", description: "Write digraphs (ch, sh, th, wh, ph) on paper. Children dab them with finger paint as the teacher says the sound or a word.", materials: "Paper, paints" },
+            { name: "Phonics Spoon Match", description: "Write digraphs on spoons and matching words on cards. Children insert the right spoon into a paper cup with the word.", materials: "Plastic spoons, paper cups, cards" },
+            { name: "Digraph Puppet Talk", description: "Children decorate paper bag puppets and make them 'talk' using words with one digraph (e.g., 'ship', 'shoes').", materials: "Paper bags, buttons, wool, crayons" },
+            { name: "Sound Sorting Bowls", description: "Label bowls with digraphs. Children sort small pictures or word cards into the correct bowl.", materials: "Bowls, picture/word cards" },
+            { name: "Digraph Rainbow Writing", description: "Children trace or write digraph words using different crayon colors.", materials: "Crayons, paper with digraph words" },
+            { name: "Digraph Ball Roll", description: "Write digraphs on a ball. Children roll it to a friend who says a word starting with the digraph under their hand.", materials: "Plastic ball, marker" },
+            { name: "Digraph Flash & Act", description: "Flash a digraph (e.g., 'ch'), and children act out or show a word (e.g., pretend to chew).", materials: "Flashcards" },
+            { name: "Digraph Bead Stringing", description: "Each bead has a letter. Children string together a digraph word like 'ch-i-p'.", materials: "Paper beads, thread, marker" },
+            { name: "Digraph Path Walk", description: "Create a floor path with digraph words (e.g., fish, chip). Children walk on it and say each word.", materials: "Paper strips or chalk, word cards" },
+            { name: "Digraph Puzzle Making", description: "Cut pictures into two halves. One side has a digraph, the other the rest of the word. Kids join the right parts.", materials: "Printed pictures cut in half" },
+            { name: "Digraph Clay Press", description: "Children form digraph letters using clay and press them into soft dough as stamps.", materials: "Clay, rolling dough" },
+            { name: "Digraph Sound Bag", description: "Put items like shell, photo, whistle inside. Kids pull one out, name it, and say the digraph.", materials: "Cloth bag, small items" },
+            { name: "Chalk & Chat Digraphs", description: "Write digraphs on the ground. As kids walk or jump over them, they say the sound and one word.", materials: "Chalk" },
+            { name: "Digraph Match Wheel", description: "A paper wheel with digraphs. Children spin and pick a word or picture with that digraph.", materials: "Paper wheel, pointer, word/picture cards" },
+            { name: "Paint & Paste Digraph Collage", description: "Children create a collage for one digraph using paint and cutouts (e.g., all things starting with 'sh').", materials: "Scrap paper, crayons, glue, paint" },
+            { name: "Digraph Spoon Toss", description: "Write digraphs on the floor. Kids toss a spoon to land on one, then say a word with that sound.", materials: "Spoon, paper digraph cards" },
+            { name: "Digraph Song Time", description: "Play short phonics songs for digraphs like 'sh, sh, ship sails away…' Children sing and mime.", materials: "Bluetooth speaker, songs (or live singing)" },
+            { name: "Digraph Maze Trail", description: "Create a path of digraphs and children must follow only a specific digraph sound to reach the end.", materials: "Paper, arrows, word clues" }
+          ],
+          "Long Vowel Sounds": [
+            { name: "Magic 'e' Wand Show", description: "Children hold a stick with a star (the 'magic e') and wave it over CVC cards (like cap → cape) to change the short vowel to a long vowel.", materials: "Paper cards, stick, star cutout" },
+            { name: "Vowel Sound Train", description: "Create a train with coaches labeled with words like 'cake,' 'bike,' 'rope,' and 'cube.' Children form a line and read the words aloud as they pretend to ride the train.", materials: "A4 paper, string, word cards" },
+            { name: "Long Vowel Sound Hopscotch", description: "Draw boxes on the ground. Write long vowel words (e.g., leaf, bike, boat) inside. Children hop and say the vowel sound in each word.", materials: "Chalk/tape, word cards" },
+            { name: "Vowel Sorting Box", description: "Children sort picture cards into five boxes marked A-E-I-O-U (representing long sounds like 'cake', 'beet', 'kite', 'goat', 'mule').", materials: "5 labeled boxes, picture-word cards" },
+            { name: "Sing the Vowel Song", description: "Play a simple long vowel sound song on the speaker. Pause after each sound and let children repeat it with a matching action.", materials: "Bluetooth speaker" },
+            { name: "Pin the Vowel", description: "Use clothespins to clip the correct long vowel letter to the end of word beginnings (e.g., 'c _ k e' → 'a').", materials: "Paper strips, clothespins, markers" },
+            { name: "Bead the Word", description: "Children string beads to spell out long vowel words. One color bead for consonants, another for vowels.", materials: "Beads, thread, vowel word list" },
+            { name: "Clay Word Formation", description: "Students shape clay into long vowel word letters like 'goat,' 'seed,' 'ride.'", materials: "Clay, word picture cards" },
+            { name: "Match & Clip Cards", description: "Provide cards with a picture and two word options (e.g., 'cake' or 'cack'). Children clip the correct long vowel word.", materials: "Printed cards, clothespins" },
+            { name: "Story Time with Long Vowels", description: "Read a short picture story containing long vowel sounds. Emphasize sounds like /aː/ in 'cake' or /iː/ in 'tree.' Children echo each sound.", materials: "Simple printed story or flashcards" },
+            { name: "Treasure Box Hunt", description: "Hide long vowel word cards in a box. Children take turns picking and reading aloud their word (e.g., 'cube,' 'rail,' 'goat').", materials: "Small box, picture-word cards" },
+            { name: "Vowel Sound Bingo", description: "Use a bingo sheet with pictures of long vowel words. As you say a sound or word, children cover the matching picture.", materials: "Bingo sheets, buttons" },
+            { name: "Stick the Missing Sound", description: "Give students word strips with missing vowels (e.g., c _ k e). They stick the correct vowel sticker or write it in.", materials: "A4 strips, vowel stickers or marker pens" },
+            { name: "Draw What You Hear", description: "Say a long vowel word (like 'leaf'). Children listen, identify the vowel, and draw the object.", materials: "Paper, crayons" },
+            { name: "Vowel Ladder Game", description: "Create a ladder with steps showing long vowel sounds. Children climb it (drawn on floor or on wall chart) while saying the sound on each step.", materials: "Chart or floor tape, vowel cards" },
+            { name: "Bottle Cap Match", description: "Use bottle caps with long vowel letters written on them. Match to pictures (e.g., a cap with 'o' to match 'boat').", materials: "Bottle caps, picture cards" },
+            { name: "Word Chain Circle", description: "Children sit in a circle. First child says a long vowel word, next child says a new one starting with the ending sound.", materials: "None or word cue cards" },
+            { name: "Button Sorting Mat", description: "Use mats with vowel sounds written. Children place buttons on the mat corresponding to the long vowel in a spoken word.", materials: "Button sets, sound mats" },
+            { name: "Vowel Relay Race", description: "Children pick a word from a pile, run and match it to the correct vowel sound basket.", materials: "Word cards, 5 baskets labeled A-E-I-O-U" },
+            { name: "Paint the Vowel Word", description: "Children paint or color a long vowel word using big bubble letters (e.g., 'tree,' 'bike') and decorate with related objects.", materials: "Paper, crayons, paintbrushes" }
+          ],
+          "Action Words": [
+            { name: "Action Song Time", description: "Children sing along to an 'action song' (e.g., 'If You're Happy and You Know It') while doing each action (clap, stomp, jump).", materials: "Bluetooth speaker or mobile phone" },
+            { name: "Verb Hopscotch", description: "Draw hopscotch on the ground. Each square has an action word (run, sit, eat). When children hop on a square, they do the action.", materials: "Chalk or tape" },
+            { name: "Action Dice", description: "Create a large cube with a different action (jump, spin, hop, clap, crawl, sit) on each side. Children roll the dice and perform the action.", materials: "Reused cardboard, marker" },
+            { name: "Simon Says Verbs", description: "Play 'Simon Says' using only action words (e.g., 'Simon says jump!'). Great for listening and comprehension.", materials: "None" },
+            { name: "Action Matching Cards", description: "One set has pictures (boy running), another set has words (run). Children match word to picture.", materials: "Handmade picture cards and word cards" },
+            { name: "Walk & Say", description: "Children walk around the classroom and say an action word with every step: 'walk, walk,' 'clap, clap,' etc.", materials: "None" },
+            { name: "Verb Collage", description: "Children cut and paste pictures of people doing different actions (from old newspapers/magazines) and label them.", materials: "Newspaper, glue, paper" },
+            { name: "Clay Action Models", description: "Children use clay to make simple models of actions (like someone running or jumping). Then say the verb aloud.", materials: "Clay" },
+            { name: "Action Flashcards Circle", description: "Children sit in a circle. Teacher shows an action flashcard; the child in turn acts it out.", materials: "Flashcards" },
+            { name: "Charades: Action Words", description: "Child acts out a verb without speaking. Others guess.", materials: "Action word cards (optional)" },
+            { name: "Thread-the-Verb Necklace", description: "Each bead represents an action word learned. After saying the word and acting it out, the child threads one bead.", materials: "Thread, beads or buttons" },
+            { name: "Action Train", description: "Children form a train and do the same action together as they move (e.g., 'jumping train,' 'walking train').", materials: "None" },
+            { name: "Verb Spin Wheel", description: "Spin a handmade paper wheel with actions written on it. Whatever it lands on, all children perform.", materials: "Paper, spinner (or use bottle)" },
+            { name: "Action Art", description: "Children draw themselves doing an action (e.g., eating, skipping) and write the word under the drawing.", materials: "A4 sheets, crayons" },
+            { name: "Verb Sorting Game", description: "Give children picture cards. They sort them into groups: running actions, sitting actions, eating actions.", materials: "Paper picture cards" },
+            { name: "Action Song Freeze", description: "Play music, children dance. Pause the music and shout a verb – they freeze in that action pose.", materials: "Music player" },
+            { name: "Verb Clue Game", description: "Give a simple clue: 'I do this when I'm tired' – child guesses and acts 'sleep.'", materials: "None" },
+            { name: "Verb Puppet Show", description: "Children use hand puppets or sock puppets to demonstrate an action (e.g., puppet jumps).", materials: "Old socks, buttons for puppets" },
+            { name: "Action Poster Wall", description: "Create a class poster showing common action words with children's drawings.", materials: "Chart paper, crayons" },
+            { name: "My Day Action Chart", description: "Each child makes a chart showing actions from their daily routine (wake, brush, eat, play).", materials: "Paper, sketch pens" }
+          ],
+          "Sentences from Vowels (a, e, i, o, u)": [
+            { name: "Sentence Building Cards", description: "Word cards are shuffled (e.g., 'The', 'cat', 'ran'). Children rearrange them to form correct sentences.", materials: "Small cards with CVC words and sight words" },
+            { name: "Vowel Sentence Train", description: "Each sentence part (subject–verb–object) is written on a paper train compartment. Children match and read aloud.", materials: "Paper train cutouts" },
+            { name: "Clay Sentence Maker", description: "Teacher says a sentence (e.g., 'The bug is big') and children use clay to model objects in the sentence.", materials: "Clay" },
+            { name: "Stick & Match Sentence Puzzle", description: "Split sentences written on strips (e.g., 'The sun / is hot'). Children match both parts to form a full sentence.", materials: "A4 cut strips" },
+            { name: "Vowel Sound Sentence Hunt", description: "Sentences are hidden around the classroom. Each group hunts and reads aloud a sentence with a vowel focus.", materials: "Paper strips, tape" },
+            { name: "Picture to Sentence Talk", description: "Show a picture (e.g., a cat on a mat). Children form a sentence using the vowel sound: 'A cat is on the mat.'", materials: "Hand-drawn or printed pictures" },
+            { name: "Color the Sentence", description: "Children get a worksheet of short sentences. They color only the ones with vowel /e/, /a/, etc.", materials: "A4 sheet, crayons" },
+            { name: "Read & Act Sentences", description: "Read aloud a short sentence like 'Sit on the rug' or 'Hop on the log.' Children do the action.", materials: "None" },
+            { name: "Vowel Sound Basket Toss", description: "Basket is labeled 'a', 'e', 'i', etc. Teacher reads a sentence, and child tosses a ball into the matching vowel basket.", materials: "Baskets, balls" },
+            { name: "CVC Sentence Garden", description: "Draw a flower garden on a chart. Each flower has a vowel. Children stick short sentences (e.g., 'A bug is red') to correct flowers.", materials: "Chart paper, glue, word strips" },
+            { name: "I Spy a Sentence", description: "Teacher says, 'I spy a sentence with the word 'bat'.' Children find the sentence from a group.", materials: "Prewritten sentence cards" },
+            { name: "Vowel Spinner Sentences", description: "Children spin to land on a vowel (e.g., 'e'), then form a sentence like 'The net is wet.'", materials: "Paper spinner" },
+            { name: "Draw & Write Vowel Sentence", description: "Children draw a picture (e.g., a pin) and then write a sentence: 'It is a pin.'", materials: "A4 sheets, crayons" },
+            { name: "Match Picture with Sentence", description: "Children match sentence cards to correct pictures (e.g., 'The pig is big' to a pig picture).", materials: "Sentence strips and simple images" },
+            { name: "Musical Sentence Circle", description: "Children sit in a circle passing a box. When music stops, the child picks a sentence strip and reads aloud.", materials: "Bluetooth speaker, sentence cards" },
+            { name: "Sentence Ladder Race", description: "Place vowel sentence steps on a floor path. Children read and walk on each one to reach the top.", materials: "Floor space, sentence cards" },
+            { name: "Sound-and-Say Relay", description: "Split into two teams. One child reads a sentence aloud and runs to tag the next child.", materials: "Vowel sentence strips" },
+            { name: "My Vowel Sentence Poster", description: "Children choose their favorite vowel and write 1–2 simple sentences about it.", materials: "Chart paper, crayons" },
+            { name: "Stamp & Stick Sentence Fun", description: "Children form sentences using stamp letters or stickers with words (e.g., 'The dog is hot.')", materials: "Alphabet stamps or word stickers" },
+            { name: "Vowel Sound Flip Book", description: "Children flip through handmade mini-books for each vowel. Each page has a sentence with a picture, e.g., 'The cat sat.'", materials: "Scrap paper, stapler, crayons" }
+          ],
+          "I am / You are": [
+            { name: "I Am Mirror Craft (No Real Mirror)", description: "Children make a paper face using scrap and say: 'I am [child's name]' or 'I am happy.'", materials: "Scrap paper, crayons, buttons" },
+            { name: "You Are My Friend Badge", description: "Children make a badge for a classmate with 'You are my friend' and give it to them.", materials: "Old paper, string/thread, crayons" },
+            { name: "I Am… Circle Game", description: "Children stand in a circle. One says 'I am [name],' and points to another saying 'You are [name].'", materials: "None" },
+            { name: "Clay Emotions Faces", description: "Children make happy/sad faces with clay and say 'I am happy' or 'You are sad.'", materials: "Clay" },
+            { name: "Role Card Match", description: "Cards with 'I am a teacher' or 'You are a student' are matched to simple stick-figure drawings.", materials: "Scrap cards, crayons" },
+            { name: "I Am Action Charades", description: "Child acts like a cat/dancer/etc. and says 'I am a dancer.' Others respond, 'You are a dancer.'", materials: "None" },
+            { name: "Name Chain Chant", description: "Children chant in a chain: 'I am Anaya, you are Rohan,' and it continues around.", materials: "None or use a small ball for passing" },
+            { name: "I Am Special Crown", description: "Make a simple paper crown. Each child decorates it and says 'I am special!'", materials: "Old paper, glue, crayons" },
+            { name: "You Are Kind Stickers", description: "Teacher gives each child a kindness sticker that says 'You are kind.'", materials: "Paper stickers, crayons" },
+            { name: "Button Sorting Labels", description: "Children sort buttons and say 'I am sorting buttons.' Partner says 'You are sorting buttons.'", materials: "Buttons" },
+            { name: "My Picture, My Sentence", description: "Child draws a self-portrait and writes 'I am [name].'", materials: "A4 sheet, crayons" },
+            { name: "Compliment Chain", description: "Children form a line. Each child says something like 'You are helpful' to the next.", materials: "None" },
+            { name: "I Am Sound Clap", description: "Clap and say phrases: 'I am tall,' 'You are short,' etc. Children repeat with gestures.", materials: "None" },
+            { name: "I Am/You Are Puzzle Match", description: "Sentences are cut into two pieces (e.g., 'I am / your friend'). Children match and read.", materials: "Cut paper strips" },
+            { name: "Emotion Spoon Labels", description: "Draw faces on spoons and say 'I am sleepy,' 'You are excited.'", materials: "Plastic spoons, markers" },
+            { name: "You Are Welcome Circle", description: "One child says 'I am sorry.' The next says 'You are welcome.' Continue with polite phrases.", materials: "None" },
+            { name: "I Am Star Display", description: "Children decorate a star and write 'I am a star!' on it. Stars go on a display chart.", materials: "Chart paper, scrap paper stars, glue" },
+            { name: "You Are Good Helper Badge", description: "After clean-up, teacher gives badge saying 'You are a good helper!'", materials: "Paper, string/thread, crayons" },
+            { name: "I Am Picture Card Talk", description: "Show a picture (e.g., a child reading). Ask: 'What is she doing?' Student says: 'I am reading.'", materials: "Picture cards" },
+            { name: "Pass the Compliment", description: "Pass a paper ball. Whoever catches it gives a compliment using 'You are...'", materials: "Paper ball" }
+          ],
+          "This is / That is": [
+            { name: "Object Point & Speak", description: "Place an object close and one far. Child says: 'This is a pen' (near), 'That is a bag' (far).", materials: "Classroom objects (pencil, bag, ball, etc.)" },
+            { name: "Clay Model Talk", description: "Make small clay models. Hold one near: 'This is a dog.' Point to far model: 'That is a cat.'", materials: "Clay" },
+            { name: "Picture Stick Show", description: "Attach pictures to stick. Hold near and say 'This is a hat.' Hold far: 'That is a car.'", materials: "Picture cards, spoons/sticks" },
+            { name: "Object Hunt Game", description: "Find things nearby and far in class. Say 'This is a table,' 'That is a door.'", materials: "Classroom surroundings" },
+            { name: "Flashlight Pointing", description: "Use a flashlight to point at near and far objects in a darkened room. Say: 'This is a chair,' 'That is a fan.'", materials: "Torchlight" },
+            { name: "This/That Sorting Mat", description: "Have two mats labeled 'This' and 'That.' Place real objects or cut-outs accordingly.", materials: "Old paper mats, objects, markers" },
+            { name: "This is My Button", description: "Each child brings a button and says: 'This is my button.' Teacher points to distant one: 'That is your button.'", materials: "Buttons" },
+            { name: "Chalk Circle Show", description: "Make two chalk circles: one near, one far. Place objects and describe them using 'this' and 'that.'", materials: "Chalk, small objects" },
+            { name: "Paper Ball Toss & Say", description: "Toss a paper ball close: 'This is a ball.' Toss it far: 'That is a ball.'", materials: "Paper balls" },
+            { name: "Drawing Distance Fun", description: "Draw objects close and far on paper. Label: 'This is a tree.' 'That is a house.'", materials: "A4 paper, crayons" },
+            { name: "Finger Puppet Talk", description: "Use finger puppets: Hold near and say 'This is a bear.' Place one far and say 'That is a lion.'", materials: "Paper puppets" },
+            { name: "My Spoon / That Spoon", description: "Child holds a spoon: 'This is my spoon.' Teacher points to another: 'That is your spoon.'", materials: "Spoons" },
+            { name: "Paper Cup Guess", description: "Place small object in cup. Show near: 'This is a shell.' Point far: 'That is a shell.'", materials: "Paper cups, small objects" },
+            { name: "Vegetable Talk", description: "Show a real or plastic vegetable near: 'This is a carrot.' Point to far: 'That is a tomato.'", materials: "Real/plastic vegetables" },
+            { name: "Near-Far Show and Tell", description: "Each child brings one object and places one near, one far. Says both sentences.", materials: "Reusable toys or materials" },
+            { name: "This/That Drawing Race", description: "Children draw two items – one near, one far – and write or say 'This is...' and 'That is...'", materials: "Paper, crayons" },
+            { name: "Music Freeze Point", description: "Play music. When it stops, point to something near: say 'This is a chair.' Next stop: 'That is a window.'", materials: "Bluetooth speaker" },
+            { name: "Chair/Table Game", description: "Sit on chair, say 'This is a chair.' Point to far chair: 'That is a chair.' Repeat with tables.", materials: "Classroom furniture" },
+            { name: "Button Trail Activity", description: "Create a line of buttons. Near one: 'This is a red button.' Far one: 'That is a green button.'", materials: "Buttons" },
+            { name: "Toy Show Sentence Walk", description: "Place toys at two ends of the classroom. Children walk to near toy and say 'This is a duck.' Point to far: 'That is a horse.'", materials: "Toy animals or printed images" }
+          ],
+          "Is / Are": [
+            { name: "Button Talk", description: "Child picks one button and says: 'This is a button.' Then picks 2 or more and says: 'These are buttons.'", materials: "Buttons of various colors and sizes" },
+            { name: "Clay Shape Count", description: "Children make one clay ball: 'This is a ball.' Then 3 balls: 'These are balls.'", materials: "Clay" },
+            { name: "Fruit Picture Match", description: "Show a single fruit pic: 'This is an apple.' Show a bunch: 'These are apples.'", materials: "Printed fruit pictures" },
+            { name: "Name Tag Board", description: "Display one name: 'This is Riya.' Display 3 name tags: 'These are students.'", materials: "Old paper, name cards, board" },
+            { name: "Handprint Chart", description: "One child prints hand on chart: 'This is a hand.' Group prints: 'These are hands.'", materials: "A4 sheets, paint" },
+            { name: "Cup Collection Fun", description: "Put 1 cup: 'This is a cup.' Add 3 more: 'These are cups.' Let kids arrange and say aloud.", materials: "Plastic/paper cups" },
+            { name: "Button Trail Sentence Walk", description: "Put a trail of 1 button: 'This is a button.' Add more: 'These are buttons.' Let kids walk beside trail while saying it.", materials: "Buttons" },
+            { name: "Paper Ball Toss & Speak", description: "Throw one paper ball: 'This is a ball.' Then toss many: 'These are balls.'", materials: "Scrap paper" },
+            { name: "Vegetable Bowl Talk", description: "Place one real/plastic vegetable in bowl: 'This is a tomato.' Add more: 'These are tomatoes.'", materials: "Real/plastic vegetables, bowls" },
+            { name: "'Who is / Who are' Song", description: "Use a Bluetooth speaker to play a short chant or rhyme: 'Who is this? This is my friend!' / 'Who are they? They are my friends!'", materials: "Speaker, teacher voice or recorded rhyme" },
+            { name: "Drawing Time Sentences", description: "Child draws one sun: 'This is a sun.' Draws 2 clouds: 'These are clouds.'", materials: "A4 paper, crayons" },
+            { name: "Spoon & Pebble Count", description: "Place 1 spoon: 'This is a spoon.' Place 4 pebbles: 'These are pebbles.'", materials: "Spoons, pebbles" },
+            { name: "'Is/Are' Puppet Parade", description: "Use one puppet: 'This is a boy.' Use two puppets: 'These are children.'", materials: "Paper puppets on spoons" },
+            { name: "Thread Bead Sentence", description: "Thread one bead: 'This is a bead.' Thread more: 'These are beads.'", materials: "Beads, string" },
+            { name: "Chalk Circle Walk", description: "Draw one chalk circle: child steps in and says: 'This is a circle.' Draw many: 'These are circles.'", materials: "Chalk" },
+            { name: "Newspaper Picture Talk", description: "Cut one car from newspaper: 'This is a car.' Cut 3 cars: 'These are cars.'", materials: "Newspaper clippings" },
+            { name: "Cloth Fold & Count", description: "Use one cloth: 'This is a napkin.' Use 2-3: 'These are napkins.' Kids fold and say.", materials: "Old reusable cloth pieces" },
+            { name: "Finger Pointing Rhyme", description: "Sing: 'One finger is pointing high, two fingers are in the sky!' (Act out with fingers.)", materials: "None; only hands" },
+            { name: "Toy Group Talk", description: "Place one toy animal: 'This is a lion.' Add more: 'These are lions.'", materials: "Toy animals or printed images" },
+            { name: "Spin & Speak Game", description: "Spin a bottle. Whomever it points to picks one or many objects and forms sentence: 'This is...' or 'These are...'", materials: "Bottle, classroom items" }
+          ],
+          "Reduce, Reuse, Recycle": [
+            { name: "Recycle Sorting Game", description: "Children are given a pile of items (paper, plastic lids, bottle caps, cloth, etc.) and asked to sort them into three labeled bins: 'Recycle', 'Reuse', and 'Trash'.", materials: "Scrap items, 3 cardboard boxes or bins, paper labels" },
+            { name: "Recycled Instruments Parade", description: "Children create fun musical instruments like shakers from plastic bottles or drums from empty tins and perform a rhythm parade.", materials: "Plastic bottles, buttons, rubber bands, tins, old paper" },
+            { name: "Paper Roll Characters", description: "Children reuse empty toilet paper rolls to make animals or cartoon characters using color and fabric scraps.", materials: "Paper rolls, paints/crayons, fabric scraps, glue" },
+            { name: "T-shirt Bag Making (with Teacher Help)", description: "Teachers show how to convert old t-shirts into carry bags (no sewing). Kids decorate them with paint or stickers.", materials: "Old t-shirts, scissors (used by teacher), paint, stickers" },
+            { name: "Bottle Cap Picture Frame", description: "Children use bottle caps to decorate a cardboard frame for photos or art.", materials: "Bottle caps, cardboard, glue, optional yarn" },
+            { name: "Plastic Spoon Art", description: "Children paint old plastic spoons to make flowers, animals, or sun decorations.", materials: "Old spoons, paints, glue, paper for background" },
+            { name: "Scrap Paper Collage", description: "Kids collect and tear scrap paper to create a large collage about nature or Earth Day.", materials: "Old magazines/newspaper, glue, chart paper" },
+            { name: "Fabric Scrap Bookmarks", description: "Children reuse leftover cloth to create bookmarks and decorate them with buttons or thread.", materials: "Old fabric, buttons, glue, string/thread" },
+            { name: "Recycled Bowling", description: "Children use used plastic bottles as bowling pins and roll a ball to knock them down.", materials: "6–10 empty bottles, a plastic ball" },
+            { name: "Sock Puppet Story Time", description: "Kids make sock puppets using old socks and then use them to act out short skits about recycling.", materials: "Old socks, buttons, fabric bits, glue" },
+            { name: "Newspaper Mats", description: "Children fold and glue newspaper strips to make simple paper mats.", materials: "Old newspaper, glue, teacher's guidance" },
+            { name: "Reuse Relay", description: "A fun relay where children collect scattered reusable items and drop them in labeled baskets (reuse, recycle).", materials: "Mixed scrap items, baskets, labels" },
+            { name: "Box City", description: "Children use small boxes and cartons to build a miniature city.", materials: "Empty boxes (toothpaste, cereal), tape, crayons" },
+            { name: "Trash to Treasure Hunt", description: "Children find 'waste' items in the class and bring them to the teacher who tells them if they can be reused or recycled.", materials: "Pre-scattered waste items, labels" },
+            { name: "Eco Hat Parade", description: "Children create fun hats using reused materials (newspaper, cardboard, fabric) and walk in a 'green parade.'", materials: "Newspaper, yarn, paper, decorations" },
+            { name: "Bottle Planters", description: "Teachers help cut plastic bottles; children decorate and plant seeds in them.", materials: "Plastic bottles, soil, seeds, paint" },
+            { name: "Recycle Sorting Song", description: "Children sing and dance to a simple song about what goes in recycle/reuse/trash while pointing to bins or flashcards.", materials: "Flashcards, Bluetooth speaker (optional)" },
+            { name: "Reuse Fashion Show", description: "Children wear simple outfits made from reused materials and walk on a pretend ramp.", materials: "Fabric scraps, paper hats, reused costume bits" },
+            { name: "Recycling Puppet Skit", description: "Children use handmade puppets to perform a small roleplay about saving the Earth through recycling.", materials: "Puppets from socks/paper, simple props" },
+            { name: "Earth Promise Circle", description: "Children sit in a circle and make 'green promises' like 'I will reuse paper' or 'I won't waste water.'", materials: "Paper leaf shapes for each child to hold and take home" }
+          ]
+        }
       }
     ],
     maths: [
@@ -3023,6 +3270,121 @@ const activitiesData = {
             { name: "Leaf Bug Hunt Chart", description: "Paste dry leaves on paper. Draw small bugs crawling on them. Children count and mark how many bugs per leaf.", materials: "Leaves, paper, crayons" }
           ]
         } 
+      },
+      { 
+        volume: 3, 
+        topics: { 
+          "Inside and Outside": [
+            { name: "Basket Sorting", description: "Place a paper basket on the floor. Give kids small toys or buttons. They decide which ones go inside or outside the basket and say the word aloud.", materials: "Paper basket, buttons/toys" },
+            { name: "Cloth Mat Walk", description: "Lay a big cloth on the floor. Children will walk inside or outside the mat when told. Add music for fun transitions.", materials: "Old cloth, Bluetooth speaker (optional)" },
+            { name: "Inside-Outside Drawing", description: "Give a house or circle outline. Children paste or draw items inside or outside the shape (e.g., a cat inside a house, tree outside).", materials: "Paper, crayons, cutouts" },
+            { name: "Toy House Play", description: "Use a box as a pretend house. Let kids move small toys in and out, describing them: 'Teddy is inside. Ball is outside.'", materials: "Cardboard box, toys" },
+            { name: "Circle Jump Fun", description: "Draw big circles on the ground using chalk. Children will jump inside or outside the circles based on teacher instructions.", materials: "Chalk, open floor" },
+            { name: "Paper Bag Surprise", description: "Place a small item inside a paper bag and one outside. Children guess and describe positions.", materials: "Paper bag, small toys" },
+            { name: "Cloth Box Crawl", description: "Children crawl inside and outside a large cardboard box while chanting position words.", materials: "Cardboard box" },
+            { name: "Circle Ring Toss", description: "Use rings to toss onto a bottle or stick inside or outside a drawn circle.", materials: "Rings, chalk, bottle" },
+            { name: "Fruit Basket Sorting", description: "Place real or paper fruits inside or outside a drawn basket.", materials: "Cutouts or toy fruits, chart" },
+            { name: "Color Inside the Shape", description: "Draw shapes and instruct children to color inside only. Then repeat with outside.", materials: "Drawing sheets, crayons" },
+            { name: "Outside Line Parade", description: "Children walk in a line either inside a path or outside it.", materials: "Tape on floor" },
+            { name: "Inside/Outside Roleplay", description: "Use a pretend tent (cloth fort) and ask kids to go inside or come outside.", materials: "Cloth, chairs" },
+            { name: "Basket Drop", description: "Drop beads or buttons and ask: 'Did it fall inside or outside the basket?'", materials: "Basket, beads/buttons" },
+            { name: "Envelope Play", description: "Put paper shapes inside and outside an envelope.", materials: "Envelopes, paper shapes" },
+            { name: "Spoon Game", description: "Keep one spoon inside a cup and one outside. Children identify.", materials: "Spoons, cups" },
+            { name: "Box Drawing Challenge", description: "Draw items that are only inside or outside a box outline.", materials: "Crayons, paper" },
+            { name: "Hide the Button", description: "Hide a button inside or outside a napkin fold. Children guess.", materials: "Cloth, button" },
+            { name: "Inside the Tunnel", description: "Create a tunnel with chairs and cloth. Kids crawl inside and back outside.", materials: "Cloth, chairs" },
+            { name: "Sock It In", description: "Children throw paper balls inside or outside a sock hung like a basket.", materials: "Sock, paper balls" },
+            { name: "Ball Roll Zones", description: "Roll a ball into 'inside' or 'outside' zones drawn on the floor.", materials: "Ball, chalk" }
+          ],
+          "Top and Bottom": [
+            { name: "Block Tower Talk", description: "Stack 3-5 boxes. Ask children to identify what is on top and what is at the bottom. Then allow them to change the positions.", materials: "Blocks/boxes" },
+            { name: "Top or Bottom Chart", description: "Draw a big ladder or tree. Children stick stars or pictures on either the top or bottom as instructed.", materials: "Chart, stickers/pictures" },
+            { name: "Book Stack Game", description: "Pile books on a table. Ask: 'Which is on the top? Which is at the bottom?' Let children rearrange and answer again.", materials: "Books" },
+            { name: "Top-Bottom Toss", description: "Place a box on the floor and one on a chair. Toss balls and ask where they landed – on top or bottom.", materials: "Boxes, balls" },
+            { name: "Fruit Basket Sorting", description: "Draw a fruit basket and a tree. Ask kids to paste fruits on top of the tree and at the bottom near the basket.", materials: "Paper, fruit cutouts, glue" },
+            { name: "Top Hat Stack", description: "Children stack hats or bowls and say which is on top or bottom.", materials: "Bowls/hats" },
+            { name: "Flag Pole Art", description: "Draw a pole with flags and mark the top and bottom.", materials: "Drawing sheet" },
+            { name: "Fruit Tower", description: "Stack fruits (real or fake) and say which is at the top.", materials: "Fruit or fruit models" },
+            { name: "Pencil Cup Sort", description: "Place pencils pointing up and down. Ask what's at the bottom or top.", materials: "Pencil holder, pencils" },
+            { name: "Chair Climb Comparison", description: "Show toy figures climbing a chair or box. Who is at the top?", materials: "Toy figures, box" },
+            { name: "Stick Puppet Levels", description: "Stick puppets move up/down a paper ladder to show top/bottom.", materials: "Ice cream sticks, paper" },
+            { name: "Water Bottles Stack", description: "Use empty bottles to stack. Ask children what's on top.", materials: "Bottles" },
+            { name: "Top to Bottom Drawing", description: "Draw raindrops falling from the top to the bottom of the paper.", materials: "Crayons, paper" },
+            { name: "Top/Bottom Spoon Game", description: "Put one spoon at the top and one at the bottom of a tray.", materials: "Spoons, tray" },
+            { name: "Top of the Table", description: "Ask what is on top or under the table.", materials: "None" },
+            { name: "Vertical Sorting Box", description: "Stick paper strips on a box: child pastes big star at top, small star at bottom.", materials: "Box, stickers" },
+            { name: "Face Stack Fun", description: "Draw faces stacked vertically; label top and bottom.", materials: "Paper, crayons" },
+            { name: "Cup Stack Guess", description: "Hide an item inside stacked cups—guess top or bottom cup?", materials: "Cups, small object" },
+            { name: "Top of the Tree Activity", description: "Paste birds on top, animals at bottom of tree.", materials: "Tree cutout, paper animals" },
+            { name: "Story Picture Column", description: "Print 3 pictures vertically and children say what's on top and bottom.", materials: "Pictures, paper" }
+          ],
+          "Big – Bigger – Biggest": [
+            { name: "Button Sorting Fun", description: "Children sort buttons into three bowls labelled Big, Bigger, and Biggest based on size.", materials: "Assorted buttons, 3 bowls" },
+            { name: "Paper Circle Sizes", description: "Give three paper circles of increasing sizes to glue in correct order.", materials: "Cut paper circles, glue" },
+            { name: "Clay Ball Making", description: "Children roll 3 clay balls—small, medium, large—and label them as Big, Bigger, Biggest.", materials: "Clay" },
+            { name: "Basket Fill Game", description: "Place big, bigger, and biggest toys in three baskets. Ask children to match items based on size.", materials: "Toys, baskets" },
+            { name: "Leaf Hunt Outside", description: "Children collect 3 different-sized leaves from the garden or school area.", materials: "Real leaves" },
+            { name: "Crayon Length Comparison", description: "Give crayons of different sizes. Ask children to place them in Big to Biggest order.", materials: "Used crayons" },
+            { name: "Draw and Compare", description: "Ask children to draw 3 different-sized apples or balloons and label them Big, Bigger, Biggest.", materials: "Drawing sheet, crayons" },
+            { name: "Button Tree Art", description: "Children glue big, bigger, and biggest buttons onto a paper tree art.", materials: "Buttons, paper, glue" },
+            { name: "Ball Sorting Race", description: "Roll 3 different-sized balls and ask children to sort them fast by size.", materials: "Plastic balls" },
+            { name: "Photo Sorting", description: "Show printed images of animals (mouse, dog, elephant). Ask which is big, bigger, or biggest.", materials: "Animal cutouts/photos" },
+            { name: "Cup Stack", description: "Use paper cups of different sizes. Let children stack from smallest to biggest.", materials: "Paper cups" },
+            { name: "Spoon Scoop Sorting", description: "Children use a spoon to scoop objects of varying size into size-marked bowls.", materials: "Spoon, buttons, 3 bowls" },
+            { name: "Big to Biggest Puzzle", description: "Provide 3 image cards to arrange from Big to Biggest (e.g., 3 pumpkins).", materials: "Picture cards" },
+            { name: "Circle Stamp Art", description: "Use caps/lids of different sizes to print big, bigger, and biggest circles.", materials: "Bottle caps, paint, paper" },
+            { name: "Size Hop Game", description: "Draw 3 circle sizes on the ground. Children jump from Big to Biggest.", materials: "Chalk" },
+            { name: "Size Rhyme", description: "Teach a chant: 'Big, Bigger, Biggest, what comes next?' Children shout answers.", materials: "None or speaker (optional)" },
+            { name: "Fruit Drawing Size Order", description: "Draw three mangoes or bananas in increasing size order.", materials: "Drawing sheets" },
+            { name: "Handprint Size Matching", description: "Use 3 handprints (sibling, friend, teacher) and compare sizes.", materials: "Paper, paint" },
+            { name: "Paper Fan Comparison", description: "Fold paper fans in 3 sizes and compare them.", materials: "Paper" },
+            { name: "Biggest Crown Activity", description: "Make 3 sizes of paper crowns and ask, 'Who wears the biggest one?'", materials: "Old newspaper, tape" }
+          ],
+          "Tall – Taller – Tallest": [
+            { name: "Tower of Cups", description: "Children stack paper cups and compare: 'Which is tall?', 'Which is taller?', 'Which is tallest?'", materials: "Paper cups" },
+            { name: "Clay Tree Models", description: "Make trees of three different heights using clay.", materials: "Clay" },
+            { name: "Straw Building", description: "Create three straw towers and compare height.", materials: "Drinking straws, tape" },
+            { name: "Box Stack Race", description: "Stack boxes and compare who makes the tallest tower.", materials: "Empty boxes" },
+            { name: "Ribbon Towers", description: "Stick 3 ribbons vertically—short, medium, long—on a chart and label tall, taller, tallest.", materials: "Ribbon, glue, paper" },
+            { name: "Standing Toy Line", description: "Stand 3 toys side by side and compare their height.", materials: "Toys" },
+            { name: "Paper Strip Trees", description: "Stick paper strips of 3 lengths as trunks to show tall to tallest.", materials: "Colored paper" },
+            { name: "Block Tower Relay", description: "Each child adds one block to their group's tower. Compare final heights.", materials: "Building blocks" },
+            { name: "Plant Height Chart", description: "Compare 3 real or fake plant heights.", materials: "Potted plants or drawings" },
+            { name: "Spoon Stick Flags", description: "Stick paper flags on spoons at different heights and compare.", materials: "Spoons, tape, paper" },
+            { name: "Chalk Tower Drawing", description: "Draw 3 buildings with increasing heights on the floor. Children jump on the tallest one.", materials: "Chalk" },
+            { name: "Height Order Photos", description: "Use class photos to compare tallest to shortest children.", materials: "Photo cutouts" },
+            { name: "Cloth Strip Measurement", description: "Pin cloth strips of 3 lengths and compare.", materials: "Cloth strips, pins" },
+            { name: "Stick Puppet Line-Up", description: "Make 3 puppets on sticks of different lengths.", materials: "Ice cream sticks, paper" },
+            { name: "Rope Hanging Comparison", description: "Hang objects at different heights. Children identify tallest.", materials: "Rope, paper objects" },
+            { name: "Cup Pyramid", description: "Make pyramids with different cup levels and compare.", materials: "Paper cups" },
+            { name: "Foot Race with Height Guess", description: "Ask who's tallest before starting a mini race.", materials: "None" },
+            { name: "String Planting", description: "Glue three vertical strings to show height difference.", materials: "String, glue" },
+            { name: "Shape Tower Match", description: "Use big shapes to build tall towers and compare.", materials: "Paper shapes, glue" },
+            { name: "Story: 'Tall Giraffe'", description: "Read or tell a story with three animals of increasing height.", materials: "None or speaker" }
+          ],
+          "Long – Longer – Longest": [
+            { name: "Thread Length Sorting", description: "Children sort threads into Long, Longer, and Longest.", materials: "Thread or wool" },
+            { name: "Paper Strip Race", description: "Children stick paper strips of 3 lengths in order.", materials: "Cut paper strips" },
+            { name: "Clay Snake Lines", description: "Make 3 snakes from clay and compare length.", materials: "Clay" },
+            { name: "Shoelace Stretch", description: "Stretch 3 shoelaces and measure visually.", materials: "Shoelaces or yarn" },
+            { name: "Pencil Line Drawings", description: "Use different pencils to draw lines. Which pencil made the longest line?", materials: "Pencils, paper" },
+            { name: "Spoon Line Activity", description: "Place spoons in a line—compare their length.", materials: "Spoons of different sizes" },
+            { name: "Paper Chain Garland", description: "Create 3 paper chains of increasing lengths.", materials: "Scrap paper, glue" },
+            { name: "Measuring Tape Fun", description: "Unroll tape to 3 lengths. Children observe and say 'Longest!'", materials: "Measuring tape" },
+            { name: "Scarf or Cloth Stretch", description: "Lay down pieces of cloth of different lengths.", materials: "Cloth/fabric scraps" },
+            { name: "String Jump Game", description: "Lay strings and ask kids to jump over the longest one.", materials: "String/wool" },
+            { name: "Hand Draw Line Race", description: "Draw freehand lines on paper and compare their lengths.", materials: "Crayons, paper" },
+            { name: "Ladder Drawing Activity", description: "Draw 3 ladders with increasing length steps.", materials: "Drawing sheets" },
+            { name: "Animal Tail Craft", description: "Make 3 tails from ribbon or string to attach to animal cutouts.", materials: "Paper, ribbon" },
+            { name: "Length Story: 'The Long Train'", description: "Tell a fun story about a short, longer, and longest train.", materials: "None or speaker" },
+            { name: "Jump Rope Match", description: "Use jump ropes of varying lengths to compare.", materials: "Jump ropes or wool ropes" },
+            { name: "Road Drawing Activity", description: "Children draw 3 roads of different lengths using black paper strips.", materials: "Paper" },
+            { name: "Measuring with Footprints", description: "Children walk 3 paper lines with steps and compare how long each is.", materials: "Paper" },
+            { name: "Wool Shape Track", description: "Use yarn to form three shapes of varying lengths and compare.", materials: "Wool/yarn" },
+            { name: "Straw Length Sort", description: "Provide straws in 3 sizes. Children sort and glue them in order.", materials: "Straws, glue" },
+            { name: "Ribbon Wave Dance", description: "Dance with 3 ribbons and observe which makes longer waves.", materials: "Ribbons" }
+          ]
+        }
       }
     ],
     evs: [
@@ -3326,6 +3688,209 @@ const activitiesData = {
             { name: "Obstacle Course Fun", description: "Combine crawling, jumping, and balancing in a mini obstacle course.", materials: "Chairs, mats, boxes" }
           ]
         } 
+      },
+      { 
+        volume: 3, 
+        topics: { 
+          "Trees": [
+            { name: "Leaf Collage Tree", description: "Children collect fallen leaves and stick them on chart paper to make a tree. They can arrange big leaves for the canopy and small ones for the bottom.", materials: "Fallen leaves, glue, old paper or chart" },
+            { name: "Bark Rubbing Fun", description: "Children press paper gently against a tree trunk and rub crayons to capture the bark's texture.", materials: "Crayons, paper, access to a nearby tree" },
+            { name: "Fingerprint Tree", description: "Draw a tree trunk on paper. Let children dip fingers in green paint to make leaf dots on the branches.", materials: "Brown marker, green paint, paper" },
+            { name: "Tree Yoga", description: "Children pretend to be trees—stand tall, spread arms like branches, sway gently like trees in the wind.", materials: "Open space" },
+            { name: "Clay Tree Making", description: "Kids use clay to make a model of a tree, forming trunks and leaves.", materials: "Brown and green clay" },
+            { name: "Match the Leaves", description: "Collect different shapes of leaves. Children match similar leaves or group by size.", materials: "Leaves of various types, paper" },
+            { name: "Singing Tree Song", description: "Sing songs about trees and encourage children to clap and act along.", materials: "Bluetooth speaker (optional), lyrics" },
+            { name: "Tree Puzzle", description: "Cut a big drawing of a tree into 4–5 large pieces. Let children put it back together.", materials: "Paper tree drawing, scissors (for teacher only)" },
+            { name: "My Favorite Tree Drawing", description: "Ask children to draw and color a tree they've seen or like.", materials: "Crayons, drawing paper" },
+            { name: "Parts of a Tree Poster", description: "Create a simple poster with 'Roots', 'Trunk', 'Branches', and 'Leaves'. Children paste pictures or draw each part.", materials: "Paper, glue, crayons" },
+            { name: "Nature Walk – Spot a Tree", description: "Take kids on a nature walk to observe trees, colors, and bird sounds.", materials: "Outdoor access" },
+            { name: "Button Leaf Tree", description: "Draw a tree, and children paste buttons as leaves.", materials: "Buttons, paper, glue" },
+            { name: "Growing Tall Game", description: "Children pretend to be seeds and slowly grow into tall trees as you narrate.", materials: "None" },
+            { name: "Story Time: Tree Tale", description: "Tell a short story about a tree and its friends (birds, shade, fruits).", materials: "Teacher's voice, story visuals (optional)" },
+            { name: "Shadow of the Tree", description: "Let kids observe tree shadows in the sunlight and trace them on paper.", materials: "Chalk or paper, pencil" },
+            { name: "Tree Sorting Basket", description: "Put items under 'comes from trees' (fruit, twig, paper) and 'not from trees' (metal spoon). Kids sort them.", materials: "Basket, objects from nature and household" },
+            { name: "Tissue Roll Tree Craft", description: "Use empty tissue rolls for trunks and paste paper leaves to make trees.", materials: "Tissue rolls, paper, glue" },
+            { name: "Listen to Tree Sounds", description: "Close eyes under a tree and listen for rustling leaves or chirping birds.", materials: "Quiet outdoor space" },
+            { name: "Guess the Tree Part", description: "Show one part of a tree (leaf, bark, fruit) and let kids guess what it is.", materials: "Tree samples or images" },
+            { name: "Dress the Tree", description: "Use fabric scraps to decorate a drawn tree like clothing—fun, sensory, and imaginative.", materials: "Cloth scraps, glue, paper" }
+          ],
+          "Uses of Plants": [
+            { name: "Vegetable Sorting", description: "Provide real or plastic vegetables and help children sort them as 'we eat leaves', 'roots', or 'fruits'.", materials: "Real or toy vegetables, baskets" },
+            { name: "Plant Product Basket", description: "Place items like fruits, wood, paper, cotton in a basket. Kids name how they come from plants.", materials: "Paper, cotton, twigs, fruits, old basket" },
+            { name: "Leaf as Plate", description: "Children observe how banana leaves or big leaves can be used like plates in villages.", materials: "Banana leaves or large leaves" },
+            { name: "Paint with Leaves", description: "Dip leaves in paint and press on paper to make plant-print artwork.", materials: "Leaves, paint, paper" },
+            { name: "Clothes from Plants", description: "Show cotton, explain it's from the cotton plant. Kids feel the material.", materials: "Cotton wool, cloth sample" },
+            { name: "Tree to Paper", description: "Show old notebook and explain how paper comes from trees. Kids decorate used pages for reuse.", materials: "Old paper, crayons" },
+            { name: "Plant Puppets", description: "Make simple stick puppets of flowers, fruits, trees. Use for storytelling.", materials: "Sticks, paper, glue, crayons" },
+            { name: "Spices from Plants", description: "Show real spices like cloves, cinnamon, and explain they come from plants.", materials: "Small spice samples in boxes" },
+            { name: "Match Plant with Use", description: "Match card with a plant (banana, rose) to its use (fruit, flower, decoration).", materials: "Flashcards or printed pictures" },
+            { name: "Scent Guessing Game", description: "Children smell basil, mint, or coriander and guess the plant.", materials: "Fresh herbs" },
+            { name: "Plant Puzzle", description: "Make simple puzzles with a plant picture cut into 3–4 parts.", materials: "Chart paper, scissors (for teacher)" },
+            { name: "Cotton Art", description: "Make flowers or clouds using cotton and talk about cotton plants.", materials: "Cotton balls, glue, paper" },
+            { name: "My Favorite Plant Drawing", description: "Children draw a plant they like and say what it gives us.", materials: "Crayons, drawing paper" },
+            { name: "Reuse Paper Activity", description: "Give children used paper to fold or draw on instead of wasting new sheets.", materials: "Old paper, crayons" },
+            { name: "Role Play a Gardener", description: "Children pretend to water, care for plants and talk about plant uses.", materials: "Water bottle, apron (optional)" },
+            { name: "Plant-Based Food Display", description: "Show rice, wheat, or fruits and explain how they're from plants.", materials: "Grains, fruits in bowls" },
+            { name: "Grow a Bean", description: "Soak a bean and keep in wet cotton to observe plant growth over days.", materials: "Bean seed, cotton, small bowl" },
+            { name: "Fabric Leaf Printing", description: "Dip leaves in paint and press onto old cloth to decorate.", materials: "Leaves, paint, old cloth" },
+            { name: "Plant Walk", description: "Take a walk and point out useful plants—shade trees, fruit trees, herbs.", materials: "Outdoor space" },
+            { name: "Thank You Plants Circle Time", description: "Sit in a circle and say aloud 'Thank you plants for giving us ___ (fruits, paper, air).'", materials: "None" }
+          ],
+          "Living and Non-Living Things": [
+            { name: "Sorting Bag", description: "Children are shown a mix of pictures or small objects. They sort them into two groups: living and non-living.", materials: "Magazine cutouts or small toys, paper bags, chart for sorting" },
+            { name: "Walk and Spot", description: "Children walk around the school and point out things that are living (plants, birds) and non-living (bench, bag).", materials: "Observation sheet (optional), pencil" },
+            { name: "Clap for Living", description: "Teacher names items, and children clap only for living things.", materials: "Word flashcards or teacher voice" },
+            { name: "Breathing Balloon", description: "Teacher shows how living things breathe using a balloon to mimic the chest expanding.", materials: "Balloon" },
+            { name: "Moving or Not?", description: "Children discuss what can move on its own and what cannot.", materials: "Pictures or toy samples" },
+            { name: "Life Needs", description: "Children match living things to what they need—air, food, water.", materials: "Printed cards with needs and beings" },
+            { name: "Clay Living Models", description: "Make animals or plants from clay and display them.", materials: "Clay, paper label tags" },
+            { name: "Story Time: The Rock and the Rabbit", description: "Teacher narrates a short story comparing a rock and a rabbit. Children answer which one is living and why.", materials: "Props (optional), storytelling voice" },
+            { name: "Living Thing Hunt", description: "Give children a simple checklist. They tick living things they see outside.", materials: "Checklist, pencil" },
+            { name: "Sing 'I Am Alive!'", description: "Sing a short action song on things living beings can do—eat, grow, move.", materials: "Bluetooth speaker (optional)" },
+            { name: "Jump and Sit", description: "Say an item name. Children jump if it's living, sit if it's not.", materials: "None" },
+            { name: "Feel the Pulse", description: "Help children feel their heartbeat and understand it's a sign of life.", materials: "None" },
+            { name: "Draw My Pet/Plant", description: "Children draw their pet or a plant and say how it grows.", materials: "Paper, crayons" },
+            { name: "Living Puppet Show", description: "Puppets talk about being alive. 'I need food', 'I sleep'.", materials: "Sock puppets, or paper stick puppets" },
+            { name: "Breath on Mirror", description: "(For teacher demo) Breath fog shows we are alive and breathing.", materials: "Small mirror or spoon (optional demo)" },
+            { name: "Non-Living Shape Hunt", description: "Children find non-living things around them that have shapes (rectangle = book).", materials: "None" },
+            { name: "Growing or Not?", description: "Children match which items grow and which don't.", materials: "Cutouts or drawings" },
+            { name: "Dance Like Animals", description: "Children mimic the movements of different animals (living beings).", materials: "Music (optional)" },
+            { name: "Living Things Puzzle", description: "Simple paper puzzle matching animals to food.", materials: "Scrap paper, markers" },
+            { name: "Living Chain", description: "Children hold hands to form a chain: sun helps plants grow, animals eat plants, etc.", materials: "None" }
+          ],
+          "Natural and Human-Made": [
+            { name: "Sorting Tray", description: "Give a mix of natural and human-made items to sort.", materials: "Stones, leaves, plastic spoon, paper clip, tray" },
+            { name: "Nature Walk Sorting", description: "Children collect natural items (leaves, twigs) and spot human-made ones (bottles).", materials: "Collection basket" },
+            { name: "Clap and Tap", description: "Clap if it's natural, tap the table if it's human-made.", materials: "Teacher voice" },
+            { name: "Natural Art", description: "Make a collage with only natural items collected outdoors.", materials: "Twigs, leaves, glue, paper" },
+            { name: "Who Made It? Game", description: "Teacher says items. Children say 'Nature' or 'Humans'.", materials: "Picture cards (optional)" },
+            { name: "Rock vs Brick", description: "Show a rock and a brick. Children observe and compare.", materials: "Rock, brick" },
+            { name: "Nature Tray Guess", description: "Blindfold a child. Let them feel an item and guess if it's natural.", materials: "Cloth, natural objects" },
+            { name: "Recreate a Scene", description: "Children draw a scene with both natural and man-made items.", materials: "Crayons, paper" },
+            { name: "My Favorite Tree vs Toy", description: "Talk about natural and man-made favorites.", materials: "None" },
+            { name: "Building with Both", description: "Create a pretend house using twigs (natural) and buttons/caps (man-made).", materials: "Twigs, paper caps, glue" },
+            { name: "Natural Sound / Human Sound", description: "Play animal or machine sounds; children guess source.", materials: "Bluetooth speaker, sounds" },
+            { name: "Clay Models", description: "Make a flower (natural) and a bus (human-made) from clay.", materials: "Clay" },
+            { name: "Nature Puzzle", description: "Simple drawing with missing natural items to fill in.", materials: "Worksheet, crayons" },
+            { name: "Stone Tower", description: "Children make towers with stones (natural).", materials: "Stones" },
+            { name: "What Can We Eat?", description: "Identify natural things we eat vs. man-made (like candy).", materials: "Flashcards, real examples (optional)" },
+            { name: "Water and Bottle", description: "Show water (natural) and bottle (human-made).", materials: "Water bottle" },
+            { name: "Natural or Not Basket", description: "Fill a box with mixed items. Children pick one and answer.", materials: "Mixed objects" },
+            { name: "Indoor Nature Corner", description: "Set up a small table with leaves, twigs, soil, etc. Let children explore.", materials: "Tray, leaves, twigs, soil" },
+            { name: "Talk with Tree", description: "Children speak to a tree as if it's telling how it came from nature.", materials: "None" },
+            { name: "Draw Your House and Garden", description: "House = man-made, garden = nature.", materials: "Paper, crayons" }
+          ],
+          "Indoor Games": [
+            { name: "Button Bowling", description: "Set up empty plastic bottles and roll a button or small ball to knock them down.", materials: "Buttons or plastic balls, reused plastic bottles" },
+            { name: "Spoon Balance Walk", description: "Children walk across a line balancing a button or small ball on a spoon.", materials: "Spoon from home, plastic ball or button" },
+            { name: "Clap and Count", description: "Clap in patterns and have children repeat or add numbers as a memory game.", materials: "None" },
+            { name: "Color Toss", description: "Toss paper balls into labeled baskets (red, blue, yellow). Learn colors and coordination.", materials: "Crushed paper balls, labeled containers" },
+            { name: "String Maze", description: "Create a floor maze with thread for children to walk through without touching the lines.", materials: "String or thread, floor space" },
+            { name: "Paper Hopscotch", description: "Make a hopscotch grid using newspaper squares on the floor.", materials: "Newspaper" },
+            { name: "Stack the Cups", description: "Children stack and unstack paper cups in a race.", materials: "Old paper cups" },
+            { name: "Button Sorting Race", description: "Sort buttons by color or size into bowls.", materials: "Buttons, bowls or containers" },
+            { name: "Cloth Puppet Talk", description: "Use cloth puppets to act out simple guessing or action games.", materials: "Old cloth, marker" },
+            { name: "Shape Memory", description: "Show shapes for 5 seconds, cover them, then ask children to recall.", materials: "Paper shape cut-outs" },
+            { name: "Alphabet Search Box", description: "Hide letters in a box of shredded newspaper and ask children to find the letters.", materials: "Newspaper, cut-out letters" },
+            { name: "Balloon Tap", description: "Children try to keep a balloon in the air without letting it touch the ground.", materials: "Balloon" },
+            { name: "Match the Sound", description: "Shake two containers with the same objects (e.g., rice) and match the sounds.", materials: "Small boxes, rice, beads, paper clips" },
+            { name: "Button Drop Game", description: "Drop buttons into a jar from a height and see who scores more.", materials: "Jar, buttons" },
+            { name: "Memory Tray", description: "Show 5 items, then cover and ask children what they saw.", materials: "Small objects from class (spoon, paper, bead)" },
+            { name: "Toss the Cloth", description: "Toss a piece of cloth into a bucket or circle.", materials: "Old cloth, bucket" },
+            { name: "Freeze and Act", description: "Play music. When it stops, children freeze in a pose like a cat, dog, etc.", materials: "Bluetooth speaker" },
+            { name: "Make-a-Pattern", description: "Create patterns using clay balls, buttons, or paper pieces.", materials: "Buttons, clay, or paper" },
+            { name: "Jump the Letters", description: "Place letter cards on the ground. Call a sound and the child jumps on the right letter.", materials: "A4 sheets with letters" },
+            { name: "Tunnel Crawl", description: "Use classroom tables covered with cloth to create a crawl tunnel.", materials: "Cloth and tables" }
+          ],
+          "Outdoor Games": [
+            { name: "Leaf Relay", description: "Children carry a leaf on a spoon and race without dropping it.", materials: "Leaves, spoon" },
+            { name: "Run to the Color", description: "Teacher calls out a color and children run to an object of that color.", materials: "Outdoor objects, color cards (optional)" },
+            { name: "Rolling Race", description: "Roll a plastic ball to a friend and back in a relay.", materials: "Plastic ball" },
+            { name: "Jump and Count", description: "Children jump over lines and count loudly.", materials: "Chalk for lines on ground" },
+            { name: "Circle Dance", description: "Form a circle, dance to music, freeze on command.", materials: "Bluetooth speaker" },
+            { name: "Follow the Leader", description: "Children follow the leader's actions (jump, crawl, spin).", materials: "None" },
+            { name: "Water Carry Walk", description: "Carry water in a cup from one bucket to another.", materials: "Two buckets, small plastic cups" },
+            { name: "Balloon Toss", description: "Toss a balloon to a partner without bursting it.", materials: "Balloon" },
+            { name: "Nature Treasure Hunt", description: "Find a leaf, a stone, and a stick.", materials: "Natural materials outdoors" },
+            { name: "Walk Like Animals", description: "Hop like a frog, walk like a crab, fly like a bird.", materials: "None" },
+            { name: "Sidewalk Alphabet Jump", description: "Draw letters with chalk and ask children to jump on a called-out sound.", materials: "Chalk" },
+            { name: "Shadow Catch", description: "Try to step on a friend's shadow playfully.", materials: "Sunny outdoor space" },
+            { name: "Obstacle Path", description: "Set a path using sticks, stones, or leaves. Children walk around or over them.", materials: "Outdoor items" },
+            { name: "Run to the Shape", description: "Place shapes on ground. Teacher names shape and children run to it.", materials: "Paper shapes" },
+            { name: "Pass the Ball", description: "Form a circle and pass the ball while music plays. Freeze when music stops.", materials: "Ball, Bluetooth speaker" },
+            { name: "Clap and Move", description: "Teacher claps in patterns; children mimic and move accordingly.", materials: "None" },
+            { name: "Big Steps, Small Steps", description: "Take 10 big steps, then 10 small ones — compare distances.", materials: "None" },
+            { name: "Hop and Pick", description: "Pick up paper items while hopping on one foot.", materials: "Paper pieces" },
+            { name: "Alphabet Chain", description: "Children say the next alphabet letter while passing a button.", materials: "Button" },
+            { name: "Cloud Watch Story", description: "Lie down and describe shapes of clouds as imaginary animals or objects.", materials: "Open sky" }
+          ],
+          "Air": [
+            { name: "Paper Fan Breeze", description: "Children make simple fans with folded paper and use them to feel air on their faces.", materials: "A4 or scrap paper" },
+            { name: "Blow the Ball", description: "Place a light plastic ball on a table. Children blow it gently to move it from one point to another.", materials: "Plastic ball" },
+            { name: "Air Balloon Tap", description: "Blow up a balloon and let children tap it in the air without letting it fall.", materials: "Balloon" },
+            { name: "Tissue Dance", description: "Hang light tissue strips and turn on a fan. Children watch how air makes them move.", materials: "Tissue strips, fan" },
+            { name: "Straw Blow Painting", description: "Children blow paint drops on paper using straws, watching how air spreads the color.", materials: "Straw, watery paint, paper" },
+            { name: "Whistle Time", description: "Give each child a simple whistle or let them make one using paper to understand air flow.", materials: "Paper or whistles" },
+            { name: "Air-Filled Bag Squeeze", description: "Trap air in a small plastic bag and let kids press it to feel resistance.", materials: "Ziplock or light plastic bag" },
+            { name: "Blow and Race", description: "Children blow buttons or paper balls across the table like a race.", materials: "Buttons or paper, table" },
+            { name: "Paper Helicopter Drop", description: "Drop paper spinners from height and watch how air slows them down.", materials: "Scrap paper, scissors" },
+            { name: "Wind and Leaves", description: "Use a fan or blow air to move cut-out leaves and watch which direction they go.", materials: "Fan, paper leaves" },
+            { name: "Air Guess Game", description: "Blow gently on different body parts (hand, cheek, ear) and ask child to guess where they feel air.", materials: "No materials" },
+            { name: "Air Fills Balloon", description: "Demonstrate how air fills a balloon. Let each child try to inflate one.", materials: "Balloons" },
+            { name: "Parachute Drop", description: "Create small parachutes using cloth and thread, and drop from height.", materials: "Old cloth, string" },
+            { name: "Kite Talk", description: "Use mini paper kites indoors and talk about how air helps them fly.", materials: "Scrap paper, stick, string" },
+            { name: "Candle and Air (Teacher-led)", description: "Demonstrate how blowing puts out a candle to explain air's movement.", materials: "Candle (teacher-led only)" },
+            { name: "Air Drum", description: "Make drums using tin boxes and stretch paper over the top. Air vibrations make sound!", materials: "Empty tin, paper" },
+            { name: "Pinwheel Craft", description: "Children create pinwheels that spin when they blow on them.", materials: "Paper, straw/stick, pin" },
+            { name: "Bubbles Fun", description: "Children blow bubbles and chase them, observing air movement.", materials: "Soap water, bubble stick" },
+            { name: "Hair Dryer Demo", description: "Teacher uses a hairdryer on low to show air movement (teacher-led).", materials: "Hair dryer" },
+            { name: "Air Sound Hunt", description: "Children close eyes and try to hear air sounds: fan, blowing, rustling.", materials: "Fan, paper, cloth" }
+          ],
+          "Water": [
+            { name: "Water Pouring Practice", description: "Children pour water from one cup to another for control and understanding flow.", materials: "Cups, water" },
+            { name: "Sponge Squeeze", description: "Give sponges soaked in water and let children squeeze into bowls.", materials: "Sponges, water, bowl" },
+            { name: "Float or Sink", description: "Test which objects float or sink in water.", materials: "Bowl of water, clay, buttons, plastic balls" },
+            { name: "Water Drop Race", description: "Children use droppers to transfer water drop by drop into marked cups.", materials: "Droppers, cups, water" },
+            { name: "Cloth Drying Game", description: "Children dip cloths and hang them to dry.", materials: "Old cloth, string" },
+            { name: "Color Mixing", description: "Use food coloring or watercolors in water to show how colors mix.", materials: "Water, watercolor/food color" },
+            { name: "Ice Cube Painting", description: "Use colored ice cubes to paint on paper.", materials: "Ice cubes, food color, paper" },
+            { name: "Bubble Play", description: "Blow soap bubbles in a basin and let children pop them.", materials: "Soap water, basin" },
+            { name: "Water Transfer with Spoon", description: "Children carry water in a spoon from one bowl to another.", materials: "Spoon, bowls" },
+            { name: "Match the Drop Sound", description: "Let children drop water on different surfaces and listen to the sound.", materials: "Water, metal plate, paper, cloth" },
+            { name: "Watering Plants", description: "Children take turns watering small potted plants.", materials: "Water, mug/cup, plant" },
+            { name: "Hand Wash Demo", description: "Teach children proper hand washing using water and soap.", materials: "Soap, water" },
+            { name: "Wet and Dry Sorting", description: "Show dry and wet cloths. Children sort them.", materials: "Old cloths" },
+            { name: "Rain Cloud in a Jar (Teacher-led)", description: "Use shaving foam and colored water to mimic rain clouds.", materials: "Jar, shaving cream, water, color" },
+            { name: "Raindrop Art", description: "Make fingerprint raindrops on umbrella drawings.", materials: "Paper, paint" },
+            { name: "Wash the Toys", description: "Children clean their plastic toys in a tub of soapy water.", materials: "Water tub, toys, soap" },
+            { name: "Water Walk", description: "Place stepping cloths dipped in water to walk across like puddles.", materials: "Cloth pieces, water" },
+            { name: "Sink Washing", description: "Use a basin and cloths to let children 'wash' classroom items.", materials: "Basin, water, cloth" },
+            { name: "Ice Touch", description: "Children explore melting ice with their hands and describe how it feels.", materials: "Ice cubes" },
+            { name: "Water Safety Talk", description: "Simple talk and role-play about drinking clean water and not wasting it.", materials: "Pictures, cup" }
+          ],
+          "Physical Education": [
+            { name: "Stretch Like Animals", description: "Call out animals and kids stretch like them – tall like a giraffe, wide like an elephant.", materials: "None" },
+            { name: "Jump the Line", description: "Place ropes or paper strips on the ground. Children jump over them.", materials: "String or paper lines" },
+            { name: "Clay Ball Toss", description: "Children make balls with clay and toss into buckets.", materials: "Clay, bucket" },
+            { name: "Walk on a Line", description: "Stick a straight line with tape and ask kids to walk on it heel-to-toe.", materials: "Tape or string" },
+            { name: "Balloon Balance", description: "Children balance a balloon between knees and try walking.", materials: "Balloon" },
+            { name: "Marching with Music", description: "Play music and have kids march in rhythm around the room.", materials: "Bluetooth speaker" },
+            { name: "Shape Forming with Bodies", description: "Call out shapes and kids use arms and legs to mimic them.", materials: "None" },
+            { name: "Tiptoe Path", description: "Make a soft path and let kids walk on it tiptoed.", materials: "Old cloth pieces" },
+            { name: "Arm Circles", description: "Children stretch arms and rotate in circles.", materials: "None" },
+            { name: "Sit and Stand Relay", description: "Kids take turns sitting and standing quickly in response to commands.", materials: "Chairs" },
+            { name: "Partner Balance", description: "Children work in pairs and balance small objects on their heads.", materials: "Button or paper ball" },
+            { name: "Simon Says Fitness", description: "Play 'Simon Says' using action words (jump, stretch, bend, etc.)", materials: "None" },
+            { name: "Chair Push Crawl", description: "Children push a small chair from one end to another for exercise.", materials: "Plastic chairs" },
+            { name: "Ball Passing Circle", description: "Children sit in a circle and pass a ball with music playing.", materials: "Ball, Bluetooth speaker" },
+            { name: "Flag Touch Race", description: "Place colored flags/paper around. Call out color and kids run to touch it.", materials: "Colored paper" },
+            { name: "Clay Squish Strength", description: "Give clay and let kids squeeze, roll, and press to build hand muscles.", materials: "Clay" },
+            { name: "Jumping Jack Count", description: "Do jumping jacks with counting – slowly with each jump.", materials: "None" },
+            { name: "Tunnel Crawl", description: "Make a tunnel from chairs and cloth. Children crawl under.", materials: "Cloth, chairs" },
+            { name: "Beanbag Balance", description: "Children walk while balancing a small item on their heads.", materials: "Paper bag or cloth beanbag" },
+            { name: "Shadow Moves", description: "Play outdoors and ask children to copy their shadows' movements.", materials: "Outdoor space" }
+          ]
+        }
       }
     ]
   }
@@ -3556,6 +4121,267 @@ function capitalize(str) {
   return str.charAt(0).toUpperCase() + str.slice(1);
 }
 
+// Search functionality
+let searchResults = [];
+let isListening = false;
+let recognition = null;
+
+// Initialize speech recognition
+function initSpeechRecognition() {
+  if ('webkitSpeechRecognition' in window || 'SpeechRecognition' in window) {
+    recognition = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
+    recognition.continuous = false;
+    recognition.interimResults = false;
+    recognition.lang = 'en-US';
+    
+    recognition.onstart = function() {
+      isListening = true;
+      document.getElementById('voiceSearchBtn').classList.add('listening');
+      showVoiceStatus('Listening... Speak now!');
+    };
+    
+    recognition.onresult = function(event) {
+      const transcript = event.results[0][0].transcript.toLowerCase();
+      document.getElementById('searchBar').value = transcript;
+      performSearch(transcript);
+      stopListening();
+    };
+    
+    recognition.onerror = function(event) {
+      console.error('Speech recognition error:', event.error);
+      showVoiceStatus('Error: ' + event.error);
+      stopListening();
+    };
+    
+    recognition.onend = function() {
+      stopListening();
+    };
+  } else {
+    console.log('Speech recognition not supported');
+    document.getElementById('voiceSearchBtn').style.display = 'none';
+  }
+}
+
+function stopListening() {
+  isListening = false;
+  document.getElementById('voiceSearchBtn').classList.remove('listening');
+  hideVoiceStatus();
+  if (recognition) {
+    recognition.stop();
+  }
+}
+
+function showVoiceStatus(message) {
+  const status = document.getElementById('voiceStatus');
+  status.textContent = message;
+  status.classList.add('show');
+}
+
+function hideVoiceStatus() {
+  const status = document.getElementById('voiceStatus');
+  status.classList.remove('show');
+}
+
+// Voice search button click handler
+function toggleVoiceSearch() {
+  if (!recognition) {
+    showVoiceStatus('Voice search not supported');
+    return;
+  }
+  
+  if (isListening) {
+    stopListening();
+  } else {
+    recognition.start();
+  }
+}
+
+// Text search functionality
+function performSearch(query) {
+  if (!query.trim()) {
+    hideSearchResults();
+    return;
+  }
+  
+  searchResults = [];
+  const searchTerm = query.toLowerCase();
+  
+  // Search through all activities data for TOPICS only
+  Object.keys(activitiesData).forEach(className => {
+    Object.keys(activitiesData[className]).forEach(subjectName => {
+      activitiesData[className][subjectName].forEach(volume => {
+        Object.keys(volume.topics).forEach(topicName => {
+          const topic = volume.topics[topicName];
+          
+          // Search in topic name only
+          if (topicName.toLowerCase().includes(searchTerm)) {
+            searchResults.push({
+              type: 'topic',
+              className: className,
+              subjectName: subjectName,
+              volume: volume.volume,
+              topicName: topicName,
+              match: topicName
+            });
+          }
+          
+          // Search in subtopics if they exist
+          if (typeof topic === 'object' && !Array.isArray(topic)) {
+            Object.keys(topic).forEach(subtopicName => {
+              if (subtopicName.toLowerCase().includes(searchTerm)) {
+                searchResults.push({
+                  type: 'subtopic',
+                  className: className,
+                  subjectName: subjectName,
+                  volume: volume.volume,
+                  topicName: topicName,
+                  subtopicName: subtopicName,
+                  match: subtopicName
+                });
+              }
+            });
+          }
+        });
+      });
+    });
+  });
+  
+  displaySearchResults();
+}
+
+function displaySearchResults() {
+  const searchWrapper = document.querySelector('.search-wrapper');
+  let existingResults = document.querySelector('.search-results');
+  
+  if (existingResults) {
+    existingResults.remove();
+  }
+  
+  if (searchResults.length === 0) {
+    return;
+  }
+  
+  const resultsDiv = document.createElement('div');
+  resultsDiv.className = 'search-results';
+  
+  // Limit results to first 10
+  const limitedResults = searchResults.slice(0, 10);
+  
+  limitedResults.forEach(result => {
+    const resultItem = document.createElement('div');
+    resultItem.className = 'search-result-item';
+    
+    let title = '';
+    let details = '';
+    
+    switch (result.type) {
+      case 'topic':
+        title = `${result.topicName}`;
+        details = `${capitalize(result.className)} • ${capitalize(result.subjectName)} • Volume ${result.volume}`;
+        break;
+      case 'subtopic':
+        title = `${result.subtopicName}`;
+        details = `${capitalize(result.className)} • ${capitalize(result.subjectName)} • ${result.topicName} • Volume ${result.volume}`;
+        break;
+      case 'activity':
+        title = `${result.activity.name}`;
+        details = `${capitalize(result.className)} • ${capitalize(result.subjectName)} • ${result.topicName} • Volume ${result.volume}`;
+        break;
+    }
+    
+    resultItem.innerHTML = `
+      <div class="result-title">${title}</div>
+      <div class="result-details">${details}</div>
+    `;
+    
+    resultItem.addEventListener('click', () => {
+      navigateToResult(result);
+      hideSearchResults();
+    });
+    
+    resultsDiv.appendChild(resultItem);
+  });
+  
+  searchWrapper.appendChild(resultsDiv);
+}
+
+function hideSearchResults() {
+  const existingResults = document.querySelector('.search-results');
+  if (existingResults) {
+    existingResults.remove();
+  }
+}
+
+function navigateToResult(result) {
+  // Navigate to the specific result
+  currentClass = result.className;
+  currentSubject = result.subjectName;
+  
+  // Find the volume index
+  const volumes = activitiesData[currentClass][currentSubject];
+  const volumeIndex = volumes.findIndex(v => v.volume === result.volume);
+  currentVolume = volumeIndex;
+  
+  // Navigate to the appropriate level
+  if (result.type === 'topic') {
+    currentTopic = result.topicName;
+    renderTopics(volumes[volumeIndex].topics);
+  } else if (result.type === 'subtopic') {
+    currentTopic = result.topicName;
+    const volume = volumes[volumeIndex];
+    const topicData = volume.topics[currentTopic];
+    const subtopicNames = Object.keys(topicData);
+    const subtopics = subtopicNames.map(name => ({ name, activities: topicData[name] }));
+    const subtopicIndex = subtopics.findIndex(s => s.name === result.subtopicName);
+    if (subtopicIndex !== -1) {
+      renderActivities(subtopics[subtopicIndex].activities);
+    }
+  }
+}
+
+// Event listeners
+document.addEventListener('DOMContentLoaded', function() {
+  initSpeechRecognition();
+  
+  // Text search
+  const searchBar = document.getElementById('searchBar');
+  let searchTimeout;
+  
+  searchBar.addEventListener('input', function() {
+    clearTimeout(searchTimeout);
+    searchTimeout = setTimeout(() => {
+      performSearch(this.value);
+    }, 300);
+  });
+  
+  searchBar.addEventListener('focus', function() {
+    if (this.value.trim()) {
+      performSearch(this.value);
+    }
+  });
+  
+  // Voice search
+  const voiceSearchBtn = document.getElementById('voiceSearchBtn');
+  voiceSearchBtn.addEventListener('click', toggleVoiceSearch);
+  
+  // Hide search results when clicking outside
+  document.addEventListener('click', function(e) {
+    if (!e.target.closest('.search-wrapper') && !e.target.closest('.voice-search-btn')) {
+      hideSearchResults();
+    }
+  });
+  
+  // Clear search on escape key
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') {
+      hideSearchResults();
+      searchBar.value = '';
+    }
+  });
+});
+
 function searchActivities() {
-  // Placeholder search function
-} 
+  // Legacy function - now handled by performSearch
+  const searchBar = document.getElementById('searchBar');
+  performSearch(searchBar.value);
+}
