@@ -14,9 +14,19 @@
   <header>
     <div class="header-content">
       <span class="logo" aria-label="ShikshaSaathi Logo">📚</span>
-    <h1 id="title">Welcome to ShikshaSaathi</h1>
+      <h1 id="title">Welcome to ShikshaSaathi</h1>
     </div>
-
+    
+    <!-- Search Section -->
+    <div class="search-section">
+      <div class="search-wrapper">
+        <input type="text" id="searchBar" placeholder="Search topics..." aria-label="Search topics">
+      </div>
+      <button id="voiceSearchBtn" class="voice-search-btn" aria-label="Voice search">
+        <span class="voice-icon">🎤</span>
+      </button>
+      <div id="voiceStatus" class="voice-status"></div>
+    </div>
   </header>
   
   <main>
@@ -35,3 +45,4 @@
   <script src="js/script.js"></script>
 </body>
 </html>
+
